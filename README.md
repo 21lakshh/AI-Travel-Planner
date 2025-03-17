@@ -1,6 +1,6 @@
-# AI Travel Planner
+# Wanderwise
 
-An AI-powered travel planner built using **LangChain**, **LangGraph**, and **Gradio** with multiple AI agents. This application helps users generate personalized travel itineraries based on their city of choice, interests, and available time, while integrating real-time weather information and Google Maps links.
+Wanderwise is An AI-powered travel planner built using **LangChain**, **LangGraph**, and **Gradio** with multiple AI agents. This application helps users generate personalized travel itineraries based on their city of choice, interests, and available time, while integrating real-time weather information and Google Maps links.
 
 ## 🚀 Features
 - **StateGraph**: Defines the flow of the travel planning process.
